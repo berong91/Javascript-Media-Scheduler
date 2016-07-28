@@ -1,0 +1,27 @@
+{
+  "name": "javascript-media-scheduler",
+  "homepage": "https://github.com/berong91/Javascript-Media-Scheduler",
+  "description": "Bootstrap based website that allows user to manage media content on one page. Data is stored in an XML file.",
+  "main": "index.html",
+  "keywords": [
+    "xml",
+    "boostrap",
+    "data",
+    "management"
+  ],
+  "authors": [
+    "Duy Pham"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

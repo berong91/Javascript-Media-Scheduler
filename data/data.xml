@@ -1,0 +1,16 @@
+<data>
+    <resource-type>
+        <type arr="vid">video</type>
+        <type arr="pic">pictuce</type>
+    </resource-type>
+    <media>            
+        <type>vid</type>
+        <title>Film Theory: Is Dory FAKING? (Finding Dory)</title>
+        <url>https://www.youtube.com/watch?v=T3b8_dQMeWw</url>
+    </media>
+    <media>            
+        <type>pic</type>
+        <title>Random Picture</title>
+        <url>/assets/images/commit_sudoku.jpg</url>
+    </media>
+</data>
